@@ -1,0 +1,8 @@
+YPtBi_Research_Experiment/
+│
+├── README.md           # Main documentation of the project
+├── yptbi_experiment.py # The Python code for experimental analysis
+├── yptbi_experiment_data.json # Data used in the experiments
+└── references/         # Folder containing any related papers or articles
+    ├── paper1.pdf
+    └── paper2.pdf
